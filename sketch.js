@@ -91,7 +91,7 @@ class Vehicle{
       stroke (235, 5, 5);
       strokeWeight (10);
       strokeJoin (round);
-      triangle (projPoint.x + 26, projPoint.y - 174.5, projPoint.x + 4, projPoint.y - 134.5, projPoint.x + 48, projPoint.y - 134.5);
+      triangle (projPoint.x + 27, projPoint.y - 174.5, projPoint.x + 6, projPoint.y - 133.5, projPoint.x + 48, projPoint.y - 133.5);
       
       //Sayap Roket
       noStroke();
